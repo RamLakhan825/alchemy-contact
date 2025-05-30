@@ -1,17 +1,17 @@
 import Hero from "./pages/hero";
 import Start from "./pages/start";
-import X from "./pages/x";
-import Y from "./pages/y";
-import Z from "./pages/z";
+import Connect from "./pages/connect";
+import Contact from "./pages/contact";
+import Officelocation from "./pages/officelocation";
 
 function App() {
   return (
     <>
       <Start></Start>
       <Hero/>
-      <X/>
-      <Y></Y>
-      <Z/>
+      <Connect/>
+      <Contact/>
+      <Officelocation/>
     </>
   )
 }

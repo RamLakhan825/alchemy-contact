@@ -1,4 +1,4 @@
-export default function Y() {
+export default function Contact() {
   return (
     <div className="bg-gray-100 px-6 py-4">
       <div className="max-w-6xl mx-auto">

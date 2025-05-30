@@ -1,7 +1,7 @@
-import a1 from "../images/6.png";
-import a2 from "../images/7.png";
+import a1 from "../images/linkedin.png";
+import a2 from "../images/youtube.png";
 
-export default function X() {
+export default function Connect() {
   return (
     <div className=" bg-white pt-6 px-6 pb-6">
       {/* Headings above both columns */}

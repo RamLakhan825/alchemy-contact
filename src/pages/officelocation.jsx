@@ -1,4 +1,4 @@
-export default function Z() {
+export default function Officelocation() {
   return (
     <div className="bg-white py-10 px-4 sm:px-8">
       {/* First div's span with white bg */}
